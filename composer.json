@@ -1,0 +1,6 @@
+{
+  "name": "composer-phar/typo3-typoscript-lint",
+  "description": "martin-helmich/typo3-typoscript-lint",
+  "license": "MIT",
+  "bin": ["typoscript-lint.phar"]
+}
